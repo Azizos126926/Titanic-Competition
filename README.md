@@ -1,5 +1,5 @@
 # Titanic-Competition
-This is the legendary Titanic ML competition – the best, my first Kaggle challenge to dive into ML competitions.
+This is the legendary Titanic ML competition – My first Kaggle challenge to dive into ML competitions.
 
 # Link: 
 https://www.kaggle.com/competitions/titanic
